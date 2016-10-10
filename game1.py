@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from map import rooms
+from map1 import rooms
 import string
 
 def remove_punct(text):
