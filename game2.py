@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-from map import rooms
-from player import *
-from items import *
-from gameparser import *
+from map2 import rooms
+from player2 import *
+from items2 import *
+from gameparser2 import *
 
 def list_of_items(items):
     """This function takes a list of items (see items.py for the definition) and
